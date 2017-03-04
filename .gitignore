@@ -1,0 +1,7 @@
+test_repo_clone_obs/
+test_repo_clone_runner/
+test_repo/
+test_results/
+results
+__pycache__/
+.commit_id
